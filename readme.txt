@@ -10,7 +10,6 @@ License: GPLv2 or later
 
 
 
-
 == Description ==
 
 <h3>MobiKoB eklentisi ile,  MobiKoB hesabınızla; </h3>
